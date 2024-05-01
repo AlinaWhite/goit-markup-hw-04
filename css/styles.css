@@ -455,7 +455,7 @@ overflow: auto;
     }
 
     .footer-container {
-        padding-right: 120px;
+        margin-right: 120px;
 
     }
 
@@ -499,15 +499,14 @@ overflow: auto;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-   
     justify-content: center;
     align-items: center;
     background-color: #4d5ae5;
-    fill: #f4f4fd
+    fill: #f4f4f4;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 }
 
-.footer-link-icon3:hover,
 .footer-link-icon3:focus {
  background-color: #31d0aa
 }
