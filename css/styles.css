@@ -232,6 +232,21 @@ display: flex;
     min-width: 264px;
 }
 
+.benefits-icon-box {
+    display: flex;
+    width: 264px;
+    height: 112px;
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;
+    justify-content: center;
+    align-items: center;
+}
+.icon-linc2 {
+    line-height: 0;
+}
+
 /*=======our-Team=====8*/
 
 .team-container {
@@ -490,4 +505,8 @@ margin-bottom: 16px;
 
 .container2 {
     display: flex;
+}
+
+.footer-link-icon3 {
+    line-height: 0;
 }
