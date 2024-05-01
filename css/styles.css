@@ -320,11 +320,11 @@ display: block;
     line-height: 1.5;
 }
 
-.team-info {
+.cont-icon {
     display: block;
     text-align: center;
     letter-spacing: 0.02em;
-    margin-bottom: 8px;
+    
    
 }
 
@@ -336,7 +336,7 @@ display: block;
     display: flex;
     column-gap: 24px;
     justify-content: center;
-    
+    margin-top: 8px;
     
     }
 
